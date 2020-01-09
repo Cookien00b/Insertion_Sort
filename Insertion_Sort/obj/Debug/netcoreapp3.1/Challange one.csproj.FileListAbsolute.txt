@@ -1,0 +1,22 @@
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.exe
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.deps.json
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.runtimeconfig.json
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.runtimeconfig.dev.json
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.dll
+C:\Users\User\Documents\c#_scripts\Challange one\bin\Debug\netcoreapp3.1\Challange one.pdb
+C:\Users\User\Documents\c#_scripts\Challange one\obj\Debug\netcoreapp3.1\Challange one.csprojAssemblyReference.cache
+C:\Users\User\Documents\c#_scripts\Challange one\obj\Debug\netcoreapp3.1\Challange one.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#_scripts\Challange one\obj\Debug\netcoreapp3.1\Challange one.AssemblyInfo.cs
+C:\Users\User\Documents\c#_scripts\Challange one\obj\Debug\netcoreapp3.1\Challange one.dll
+C:\Users\User\Documents\c#_scripts\Challange one\obj\Debug\netcoreapp3.1\Challange one.pdb
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.exe
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.deps.json
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.runtimeconfig.json
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.runtimeconfig.dev.json
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.dll
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\bin\Debug\netcoreapp3.1\Challange one.pdb
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\obj\Debug\netcoreapp3.1\Challange one.csprojAssemblyReference.cache
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\obj\Debug\netcoreapp3.1\Challange one.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\obj\Debug\netcoreapp3.1\Challange one.AssemblyInfo.cs
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\obj\Debug\netcoreapp3.1\Challange one.dll
+C:\Users\User\Documents\c#_scripts\Coding_Challenges\Merlijn\Insertion_Sort\obj\Debug\netcoreapp3.1\Challange one.pdb
